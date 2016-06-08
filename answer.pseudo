@@ -1,10 +1,11 @@
 <html>
 <body>
 <?php
+/*
 function getName($name){
 echo "$name ".rand(6,15)."<br>";
 }
-
+*/
 getName("Nikhil");
 getName("Rajat");
 getName("Rahul");
